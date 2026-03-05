@@ -38,27 +38,6 @@ weather-project
 
 ---
 
-## How to Run the Project
-
-1. Download or clone the repository from GitHub.
-2. Open the project folder on your computer.
-3. Open the **index.html** file in any web browser.
-4. Enter a city name in the search bar to simulate weather data.
-
----
-
-## Deployment
-
-The project can be deployed using platforms such as:
-
-* GitHub Pages
-* Netlify
-* Vercel
-
-After deployment, share the live project link along with the GitHub repository.
-
----
-
 ## Future Enhancements
 
 * Integration with a real weather API.
