@@ -1,12 +1,14 @@
 # Weather Forecast Page with CSS Animations
 
-## Project Overview
+## 📌 Project Overview
 
 The Weather Forecast Page is a simple and responsive web application designed to display weather information for a selected city. The webpage shows basic weather details such as temperature, humidity, wind speed, and a short weather forecast. The main goal of this project is to create a visually attractive weather interface using HTML, CSS, and JavaScript while incorporating CSS animations to enhance the user experience.
 
 The project demonstrates fundamental web development concepts including responsive design, user interaction, and simple animations.
 
-## Features
+---
+
+## 🚀 Features
 
 * Display current weather information including temperature, humidity, and wind speed.
 * 5-day weather forecast section with weather condition icons.
@@ -15,14 +17,14 @@ The project demonstrates fundamental web development concepts including responsi
 * Hover effects on forecast cards.
 * Fully responsive layout that works on mobile, tablet, and desktop devices.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 * HTML5 for webpage structure
 * CSS3 for styling and animations
 * JavaScript for interactive features such as the city search functionality
 * Git and GitHub for version control and project management
 
-## Project Structure
+## 📂 Project Structure
 
 weather-project
 │
@@ -30,6 +32,8 @@ weather-project
 ├── style.css
 ├── script.js
 └── README.md
+
+---
 
 ## How to Run the Project
 
