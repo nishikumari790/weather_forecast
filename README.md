@@ -17,6 +17,7 @@ The project demonstrates fundamental web development concepts including responsi
 * Hover effects on forecast cards.
 * Fully responsive layout that works on mobile, tablet, and desktop devices.
 
+---
 ## 🛠️ Technologies Used
 
 * HTML5 for webpage structure
@@ -24,7 +25,9 @@ The project demonstrates fundamental web development concepts including responsi
 * JavaScript for interactive features such as the city search functionality
 * Git and GitHub for version control and project management
 
-## 📂 Project Structure
+---
+
+## 📂 Folder Structure
 
 weather-project
 │
@@ -42,6 +45,8 @@ weather-project
 3. Open the **index.html** file in any web browser.
 4. Enter a city name in the search bar to simulate weather data.
 
+---
+
 ## Deployment
 
 The project can be deployed using platforms such as:
@@ -52,6 +57,8 @@ The project can be deployed using platforms such as:
 
 After deployment, share the live project link along with the GitHub repository.
 
+---
+
 ## Future Enhancements
 
 * Integration with a real weather API.
@@ -59,7 +66,4 @@ After deployment, share the live project link along with the GitHub repository.
 * Dynamic background based on weather conditions.
 * Detailed weather information in a modal popup.
 
-## Author
 
-Nishi Kumari
-B.Tech Computer Science Student
